@@ -1,14 +1,34 @@
-# 💫 About Me:
-Currently I am an AI/Software Engineer at a startup. I work on AI, models, Agentic AI, Cloud, DevOps, Salesforce etc.<br>I have experience of 2 years with background of Artificial Intelligence & Data Science.<br>I love to read books, learn new things & being high on caffein.
+# Vaishnavi J
 
+AI Engineer | Backend Developer | Cloud & DevOps Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-jallewar04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jallewarvaishnavi517@gmail.com) 
+I design production-grade AI systems, LLM-powered applications,cloud-native backend architectures & scalable systems powered by AI.
+I love to read books, learn new things & being high on caffein.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+AI and Software Engineer specializing in:
 
----
-[![](https://visitcount.itsvg.in/api?id=vjallewar5858&icon=0&color=0)](https://visitcount.itsvg.in)
+- LLM-based application development
+- Model fine-tuning & evaluation
+- NLP-driven automation systems
+- AI-powered product prototypes
+- Cloud-native CI/CD workflows
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Highlights
+- Architected AI/ML prototypes for text-to-audio and generative AI systems
+- Fine-tuned LLMs to improve semantic coherence and task relevance
+- Engineered web-scraping and data pipelines using Pandas & BeautifulSoup
+- Designed Azure DevOps CI/CD pipelines for multi-environment deployments
+- Containerized services with Docker and deployed to cloud environments
+- Built automation tools reducing manual engineering workflows
+
+## Tech Focus
+Python · FastAPI · TensorFlow · PyTorch · Azure · Docker · Kubernetes · PostgreSQL · MongoDB
+Machine Learning · Deep Learning · NLP · LLMs · Fine-tuning · GenAI · Agentic AI · Transformers
+Pandas · NumPy · Scikit-learn · TensorFlow · Web Scraping · CI/CD Automation
+
+## Currently Exploring
+Advanced AI agents and generative AI systems.
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/vaishnavi-jallewar04  
+Email: jallewarvaishnavi517@gmail.com
