@@ -22,8 +22,8 @@ Highlights
 - Built automation tools reducing manual engineering workflows
 
 ## Tech Focus
-Python · FastAPI · TensorFlow · PyTorch · Azure · Docker · Kubernetes · PostgreSQL · MongoDB
-Machine Learning · Deep Learning · NLP · LLMs · Fine-tuning · GenAI · Agentic AI · Transformers
+Python · FastAPI · TensorFlow · PyTorch · Azure · Docker · Kubernetes · PostgreSQL · MongoDB · Azure DevOps · Docker · AKS · Jenkins · Databricks · Data Factory ·  
+Machine Learning · Deep Learning · NLP · LLMs · Fine-tuning · GenAI · Agentic AI · Transformers ·
 Pandas · NumPy · Scikit-learn · TensorFlow · Web Scraping · CI/CD Automation
 
 ## Currently Exploring
