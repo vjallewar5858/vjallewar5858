@@ -1,34 +1,30 @@
-# Vaishnavi J
+Vaishnavi Jallewar
+Data Analyst · Python · SQL · Power BI · Excel
 
-AI Engineer | Backend Developer | Cloud & DevOps Enthusiast
+Aspiring data analyst with a software engineering background — I turn messy datasets into decisions. Currently building end-to-end analytics projects: from data pipelines and EDA to interactive dashboards that make insights impossible to ignore.
 
-I design production-grade AI systems, LLM-powered applications,cloud-native backend architectures & scalable systems powered by AI.
-I love to read books, learn new things & being high on caffein.
+What I work on
 
-AI and Software Engineer specializing in:
+▸ End-to-end EDA and KPI analysis on real-world datasets
+▸ Power BI dashboards with DAX measures for business reporting
+▸ Data cleaning, transformation, and pipeline automation with Python
+▸ Statistical analysis — anomaly detection, correlation studies, segmentation
+▸ SQL-based querying and data extraction for reporting workflows
 
-- LLM-based application development
-- Model fine-tuning & evaluation
-- NLP-driven automation systems
-- AI-powered product prototypes
-- Cloud-native CI/CD workflows
+Recent highlights
 
-Highlights
-- Architected AI/ML prototypes for text-to-audio and generative AI systems
-- Fine-tuned LLMs to improve semantic coherence and task relevance
-- Engineered web-scraping and data pipelines using Pandas & BeautifulSoup
-- Designed Azure DevOps CI/CD pipelines for multi-environment deployments
-- Containerized services with Docker and deployed to cloud environments
-- Built automation tools reducing manual engineering workflows
+▸ Uncovered ₹1.3L in wasted campaign spend by analysing 41K+ customer records
+▸ Built factory KPI dashboards (OEE, downtime, yield) cutting report turnaround by ~35%
+▸ Identified readmission drivers in 70K diabetic patient encounters using feature engineering
 
-## Tech Focus
-Python · FastAPI · TensorFlow · PyTorch · Azure · Docker · Kubernetes · PostgreSQL · MongoDB · Azure DevOps · Docker · AKS · Jenkins · Databricks · Data Factory ·  
-Machine Learning · Deep Learning · NLP · LLMs · Fine-tuning · GenAI · Agentic AI · Transformers ·
-Pandas · NumPy · Scikit-learn · TensorFlow · Web Scraping · CI/CD Automation
+Tech stack
 
-## Currently Exploring
-Advanced AI agents and generative AI systems.
+Python · SQL · Power BI · Excel · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · FastAPI · Azure · Docker
 
-## Contact
-LinkedIn: https://www.linkedin.com/in/vaishnavi-jallewar04  
+Currently exploring
+
+Advanced analytics, predictive modelling, and ML-assisted data workflows.
+
+Contact
+LinkedIn: linkedin.com/in/vaishnavi-jallewar04
 Email: jallewarvaishnavi517@gmail.com
